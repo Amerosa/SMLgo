@@ -1,2 +1,2 @@
 # SMLgo
-Small Matrix Library written in go for exducational purposes
+Small Matrix Library written in go for educational purposes
